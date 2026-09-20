@@ -1,13 +1,13 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Krita</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
 ## Usage
 
-1. Download Variant(s) from [`dist`](./dist)
+1. Download Variant(s) from [dist](./dist)
 2. Under **Settings, Manage Resources...** select **Open Resource Folder**
 3. Copy .colors file(s) into Krita's `color-schemes` folder
 
@@ -24,3 +24,8 @@
 ### Rosé Pine Dawn
 
 <img width="256" alt="Rosé Pine Dawn with Krita" src="https://github.com/user-attachments/assets/fb1b1d16-55e8-45db-b388-7c25250b8022" />
+
+## Thanks to
+
+- [RoseDelightful](https://github.com/rosedelightful)
+
