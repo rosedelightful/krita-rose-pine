@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Download Variant(s) from [dist](./dist)
+1. Download variant(s) from [dist](./dist)
 2. Under **Settings, Manage Resources...** select **Open Resource Folder**
 3. Copy .colors file(s) into Krita's `color-schemes` folder
 4. Under **Settings, Themes** select variant
