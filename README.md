@@ -11,6 +11,7 @@
 2. Under **Settings, Manage Resources...** select **Open Resource Folder**
 3. Copy .colors file(s) into Krita's `color-schemes` folder
 4. Under **Settings, Themes** select variant
+5. Restart Krita
 
 ## Gallery
 
